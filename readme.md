@@ -1,11 +1,9 @@
 Here’s a professional **README.md** tailored for your `gujjardevelopmentspace` Calculator project:
 
-````markdown
+```markdown
 # GujjarDevelopmentSpace Calculator 🧮
 
 Welcome to **GujjarDevelopmentSpace Calculator**, a simple and efficient web-based calculator built using **HTML, CSS, and JavaScript**. This project is designed to provide a smooth and user-friendly experience for basic arithmetic operations.
-
----
 
 ## 🔹 Features
 
